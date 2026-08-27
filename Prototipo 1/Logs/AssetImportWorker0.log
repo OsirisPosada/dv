@@ -11,13 +11,13 @@ C:\Program Files\Unity\Hub\Editor\2022.3.16f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/MULTIMEDIA/Documents/00-ESTUDIANTES/POSADA MONTERO OSIRIS DANIELA/DV/Prototipo 1
+C:/Users/MULTIMEDIA/Desktop/Pruebas Github/dv/Prototipo 1
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50720
-Successfully changed project path to: C:/Users/MULTIMEDIA/Documents/00-ESTUDIANTES/POSADA MONTERO OSIRIS DANIELA/DV/Prototipo 1
-C:/Users/MULTIMEDIA/Documents/00-ESTUDIANTES/POSADA MONTERO OSIRIS DANIELA/DV/Prototipo 1
+55133
+Successfully changed project path to: C:/Users/MULTIMEDIA/Desktop/Pruebas Github/dv/Prototipo 1
+C:/Users/MULTIMEDIA/Desktop/Pruebas Github/dv/Prototipo 1
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -49,16 +49,16 @@ C:/Users/MULTIMEDIA/Documents/00-ESTUDIANTES/POSADA MONTERO OSIRIS DANIELA/DV/Pr
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [13716] Host "[IP] 172.16.10.84 [Port] 0 [Flags] 2 [Guid] 2322027778 [EditorId] 2322027778 [Version] 1048832 [Id] WindowsEditor(7,S3-LDIM-PC03) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [23140] Host "[IP] 172.16.10.77 [Port] 0 [Flags] 2 [Guid] 2867090878 [EditorId] 2867090878 [Version] 1048832 [Id] WindowsEditor(7,S3-LDIM-PC03) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [13716] Host "[IP] 172.16.10.84 [Port] 0 [Flags] 2 [Guid] 2322027778 [EditorId] 2322027778 [Version] 1048832 [Id] WindowsEditor(7,S3-LDIM-PC03) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [23140] Host "[IP] 172.16.10.77 [Port] 0 [Flags] 2 [Guid] 2867090878 [EditorId] 2867090878 [Version] 1048832 [Id] WindowsEditor(7,S3-LDIM-PC03) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
-Refreshing native plugins compatible for Editor in 13.98 ms, found 5 plugins.
+Refreshing native plugins compatible for Editor in 12.91 ms, found 5 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.16f1 (d2c21f0ef2f1)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/MULTIMEDIA/Documents/00-ESTUDIANTES/POSADA MONTERO OSIRIS DANIELA/DV/Prototipo 1/Assets
+[Subsystems] Discovering subsystems at path C:/Users/MULTIMEDIA/Desktop/Pruebas Github/dv/Prototipo 1/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -70,47 +70,47 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56540
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56852
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007211 seconds.
-- Loaded All Assemblies, in  0.312 seconds
+Registered in 0.008140 seconds.
+- Loaded All Assemblies, in  0.323 seconds
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 230 ms
+Android Extension - Scanning For ADB Devices 239 ms
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.508 seconds
-Domain Reload Profiling: 820ms
-	BeginReloadAssembly (95ms)
+- Finished resetting the current domain, in  0.515 seconds
+Domain Reload Profiling: 837ms
+	BeginReloadAssembly (96ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (29ms)
-	RebuildNativeTypeToScriptingClass (8ms)
-	initialDomainReloadingComplete (49ms)
-	LoadAllAssembliesAndSetupDomain (130ms)
-		LoadAssemblies (93ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (58ms)
+	LoadAllAssembliesAndSetupDomain (125ms)
+		LoadAssemblies (95ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (128ms)
-			TypeCache.Refresh (127ms)
-				TypeCache.ScanAssembly (115ms)
+		AnalyzeDomain (123ms)
+			TypeCache.Refresh (122ms)
+				TypeCache.ScanAssembly (111ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (509ms)
+	FinalizeReload (516ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (461ms)
+		SetupLoadedEditorAssemblies (469ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (318ms)
+			InitializePlatformSupportModulesInManaged (330ms)
 			SetLoadedEditorAssemblies (3ms)
 			RefreshPlugins (0ms)
 			BeforeProcessingInitializeOnLoad (2ms)
 			ProcessInitializeOnLoadAttributes (96ms)
-			ProcessInitializeOnLoadMethodAttributes (41ms)
+			ProcessInitializeOnLoadMethodAttributes (37ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -118,52 +118,52 @@ Domain Reload Profiling: 820ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.616 seconds
-Refreshing native plugins compatible for Editor in 9.20 ms, found 5 plugins.
+- Loaded All Assemblies, in  0.615 seconds
+Refreshing native plugins compatible for Editor in 5.54 ms, found 5 plugins.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.594 seconds
-Domain Reload Profiling: 1206ms
-	BeginReloadAssembly (133ms)
+- Finished resetting the current domain, in  0.544 seconds
+Domain Reload Profiling: 1156ms
+	BeginReloadAssembly (130ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (4ms)
+		DisableScriptedObjects (5ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (19ms)
-	RebuildCommonClasses (30ms)
-	RebuildNativeTypeToScriptingClass (12ms)
-	initialDomainReloadingComplete (39ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (36ms)
 	LoadAllAssembliesAndSetupDomain (398ms)
-		LoadAssemblies (311ms)
+		LoadAssemblies (299ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (164ms)
-			TypeCache.Refresh (141ms)
-				TypeCache.ScanAssembly (127ms)
-			ScanForSourceGeneratedMonoScriptInfo (18ms)
+		AnalyzeDomain (171ms)
+			TypeCache.Refresh (149ms)
+				TypeCache.ScanAssembly (135ms)
+			ScanForSourceGeneratedMonoScriptInfo (17ms)
 			ResolveRequiredComponents (3ms)
-	FinalizeReload (595ms)
+	FinalizeReload (544ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (432ms)
+		SetupLoadedEditorAssemblies (407ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (24ms)
-			SetLoadedEditorAssemblies (5ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (4ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (68ms)
-			ProcessInitializeOnLoadAttributes (292ms)
-			ProcessInitializeOnLoadMethodAttributes (37ms)
-			AfterProcessingInitializeOnLoad (6ms)
+			BeforeProcessingInitializeOnLoad (62ms)
+			ProcessInitializeOnLoadAttributes (279ms)
+			ProcessInitializeOnLoadMethodAttributes (33ms)
+			AfterProcessingInitializeOnLoad (7ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (6ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 6.52 ms, found 5 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 5.19 ms, found 5 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4469 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 78 unused Assets / (248.3 KB). Loaded Objects now: 4921.
-Memory consumption went from 158.5 MB to 158.3 MB.
-Total: 3.550300 ms (FindLiveObjects: 0.378700 ms CreateObjectMapping: 0.171200 ms MarkObjects: 2.770300 ms  DeleteObjects: 0.228900 ms)
+Unloading 4471 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 78 unused Assets / (249.0 KB). Loaded Objects now: 4924.
+Memory consumption went from 158.7 MB to 158.4 MB.
+Total: 3.499900 ms (FindLiveObjects: 0.400900 ms CreateObjectMapping: 0.157600 ms MarkObjects: 2.614600 ms  DeleteObjects: 0.325500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -180,284 +180,328 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 52727.181827 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Atlas.spriteatlas
-  artifactKey: Guid(73b7fbd841d808f419f70ebc75375c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Atlas.spriteatlas using Guid(73b7fbd841d808f419f70ebc75375c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcdb0362b0b021f709470540b0c38d82') in 0.010783 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 605.023492 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap
-  artifactKey: Guid(6899f6b7cbda8b4459d7bb58555bca4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap using Guid(6899f6b7cbda8b4459d7bb58555bca4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e72675ada73f908eabc348e5fad7874') in 0.000806 seconds
+  Time since last request: 227408.164427 seconds.
+  path: Assets/Scripts/sl1.cs
+  artifactKey: Guid(6d1fed17012823249bacd2a2397beeb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/sl1.cs using Guid(6d1fed17012823249bacd2a2397beeb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a7c93a997da9f05380059cddecfc44f') in 0.001884 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 0.707664 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileBackGround1.asset
-  artifactKey: Guid(a20b6678c312f2a4e99e6557c15cbcb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileBackGround1.asset using Guid(a20b6678c312f2a4e99e6557c15cbcb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '747328b96cfde6f1a8b18e12a03a2963') in 0.044415 seconds
+  Time since last request: 2.349078 seconds.
+  path: Assets/Scripts/A.cs
+  artifactKey: Guid(5c53a7b5bf2f60541b5cdb824fb2131d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/A.cs using Guid(5c53a7b5bf2f60541b5cdb824fb2131d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec6ac5d0c913613a2c5fa4c747515f9d') in 0.000453 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.460 seconds
+Refreshing native plugins compatible for Editor in 7.66 ms, found 5 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.956 seconds
+Domain Reload Profiling: 1413ms
+	BeginReloadAssembly (154ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (33ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (216ms)
+		LoadAssemblies (277ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (23ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (9ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (957ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (344ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (60ms)
+			ProcessInitializeOnLoadAttributes (227ms)
+			ProcessInitializeOnLoadMethodAttributes (24ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 5.38 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4463 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 51 unused Assets / (222.6 KB). Loaded Objects now: 4929.
+Memory consumption went from 158.3 MB to 158.0 MB.
+Total: 2.649200 ms (FindLiveObjects: 0.245700 ms CreateObjectMapping: 0.117400 ms MarkObjects: 2.132800 ms  DeleteObjects: 0.152600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 43b350a4d6e6d1791af0b5038c4bea17 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.386 seconds
+Refreshing native plugins compatible for Editor in 5.97 ms, found 5 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.930 seconds
+Domain Reload Profiling: 1312ms
+	BeginReloadAssembly (133ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (189ms)
+		LoadAssemblies (232ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (20ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (7ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (930ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (329ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (22ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (59ms)
+			ProcessInitializeOnLoadAttributes (215ms)
+			ProcessInitializeOnLoadMethodAttributes (24ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 6.40 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4469 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 51 unused Assets / (248.9 KB). Loaded Objects now: 4938.
+Memory consumption went from 160.8 MB to 160.6 MB.
+Total: 2.685400 ms (FindLiveObjects: 0.238900 ms CreateObjectMapping: 0.108300 ms MarkObjects: 2.150700 ms  DeleteObjects: 0.186700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 43b350a4d6e6d1791af0b5038c4bea17 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.369 seconds
+Refreshing native plugins compatible for Editor in 5.45 ms, found 5 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.008 seconds
+Domain Reload Profiling: 1373ms
+	BeginReloadAssembly (124ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (183ms)
+		LoadAssemblies (233ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (11ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (1008ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (400ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (72ms)
+			ProcessInitializeOnLoadAttributes (264ms)
+			ProcessInitializeOnLoadMethodAttributes (30ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Refreshing native plugins compatible for Editor in 5.85 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4469 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 51 unused Assets / (247.2 KB). Loaded Objects now: 4943.
+Memory consumption went from 162.7 MB to 162.5 MB.
+Total: 3.003800 ms (FindLiveObjects: 0.278900 ms CreateObjectMapping: 0.214900 ms MarkObjects: 2.338200 ms  DeleteObjects: 0.171100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 43b350a4d6e6d1791af0b5038c4bea17 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.377 seconds
+Refreshing native plugins compatible for Editor in 5.79 ms, found 5 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.988 seconds
+Domain Reload Profiling: 1362ms
+	BeginReloadAssembly (124ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (31ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (194ms)
+		LoadAssemblies (241ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (12ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (988ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (400ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (22ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (72ms)
+			ProcessInitializeOnLoadAttributes (262ms)
+			ProcessInitializeOnLoadMethodAttributes (31ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 6.28 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4469 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 51 unused Assets / (247.2 KB). Loaded Objects now: 4948.
+Memory consumption went from 164.7 MB to 164.4 MB.
+Total: 2.950600 ms (FindLiveObjects: 0.275300 ms CreateObjectMapping: 0.116400 ms MarkObjects: 2.378100 ms  DeleteObjects: 0.180000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 43b350a4d6e6d1791af0b5038c4bea17 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 302.247382 seconds.
+  path: Assets/Hero Knight - Pixel Art/Animations
+  artifactKey: Guid(4d2058f5d413e8a42a0b44987c79c7bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero Knight - Pixel Art/Animations using Guid(4d2058f5d413e8a42a0b44987c79c7bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '192a83317b9287d9ac271a52abdc2543') in 0.002713 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 25.561894 seconds.
+  path: Assets/Hero Knight - Pixel Art/Sprites
+  artifactKey: Guid(e14e5185a32f9764587a60efb75130db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero Knight - Pixel Art/Sprites using Guid(e14e5185a32f9764587a60efb75130db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69d7a1921b99557375aeb6147e6b36a5') in 0.000521 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.067261 seconds.
+  path: Assets/Hero Knight - Pixel Art/Sprites/Background.png
+  artifactKey: Guid(33dccf83b7f7f294992c97ebe1990464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero Knight - Pixel Art/Sprites/Background.png using Guid(33dccf83b7f7f294992c97ebe1990464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a0e1ce0a3dfa836f29202723706738e') in 0.087846 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000067 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant20.asset
-  artifactKey: Guid(c3ff7419c86b6714b944b883631c7816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant20.asset using Guid(c3ff7419c86b6714b944b883631c7816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '177b3dd93ed6da60d476e2a0c7c2512d') in 0.009563 seconds
+  Time since last request: 0.000032 seconds.
+  path: Assets/Hero Knight - Pixel Art/Sprites/SlideDust.png
+  artifactKey: Guid(7fb51a422c4a36e40b71b06331a74b11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero Knight - Pixel Art/Sprites/SlideDust.png using Guid(7fb51a422c4a36e40b71b06331a74b11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04dc9325c9fa00aae4053fc92d51cc10') in 0.050164 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000013 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround18.asset
-  artifactKey: Guid(922dd08eb4e3e6945b8947963c4d99a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround18.asset using Guid(922dd08eb4e3e6945b8947963c4d99a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04b256752017ad2eb8703be733027b00') in 0.006974 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000012 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant9.asset
-  artifactKey: Guid(40139b21f4647644197a63fa35e8e147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant9.asset using Guid(40139b21f4647644197a63fa35e8e147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3b7d07f2d14c620e3bd3a9a6784a647') in 0.005629 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000013 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileBackGround5.asset
-  artifactKey: Guid(263f6ecf024cc0f45987d45799ca3020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileBackGround5.asset using Guid(263f6ecf024cc0f45987d45799ca3020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a736db85037202cfc632eb8cbd1d4faf') in 0.005082 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000013 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant18.asset
-  artifactKey: Guid(f021efad6f172bb428f810220bbf1ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant18.asset using Guid(f021efad6f172bb428f810220bbf1ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92b020c58a4c01796de69f497a43624b') in 0.021269 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant16.asset
-  artifactKey: Guid(2a1b96d31d2dcc34e896cd03c8fd903b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant16.asset using Guid(2a1b96d31d2dcc34e896cd03c8fd903b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8ffeeb678e9f627ef9be52f7e3e5a14') in 0.007357 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround3.asset
-  artifactKey: Guid(b5786621548ac4249afcc66e075d6958) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround3.asset using Guid(b5786621548ac4249afcc66e075d6958) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa7888ce7545aa96cb1a61a177ab4899') in 0.006854 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant4.asset
-  artifactKey: Guid(c8399ecdf3066f64095b0af3f316928a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant4.asset using Guid(c8399ecdf3066f64095b0af3f316928a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7e7a2441afc1e3afdff70e7719a3449') in 0.005768 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileFence4.asset
-  artifactKey: Guid(8d0152e8363424749bf4c34f45015ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileFence4.asset using Guid(8d0152e8363424749bf4c34f45015ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1661c7f8e7e12c97bb30d98e306cb1e0') in 0.007125 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround11.asset
-  artifactKey: Guid(8b59561cece8f5d44b5ac283be1e5e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround11.asset using Guid(8b59561cece8f5d44b5ac283be1e5e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '842ac09d27e17d70f867e620dec67613') in 0.006273 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000011 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant3.asset
-  artifactKey: Guid(f041f16b65ad7ae4fb8f497cf7ed797f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant3.asset using Guid(f041f16b65ad7ae4fb8f497cf7ed797f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49c84f3d4e17d295dffee6ecf52d07cb') in 0.005534 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround5.asset
-  artifactKey: Guid(036bc8e6ff6008546973717e0dd4e36e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround5.asset using Guid(036bc8e6ff6008546973717e0dd4e36e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '248a919fdfba70bb98571e46f1908b4b') in 0.019893 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000013 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround21.asset
-  artifactKey: Guid(0ec9e6c78bd753a42b88273a550e4696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround21.asset using Guid(0ec9e6c78bd753a42b88273a550e4696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d4707013f0229b0dd85dd4afe08a3ce') in 0.006010 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround8.asset
-  artifactKey: Guid(3690a42729c61ae40b8501ad15359dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround8.asset using Guid(3690a42729c61ae40b8501ad15359dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a362ea804d2e7dbb6f8d84c78aec3d7') in 0.006942 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround23.asset
-  artifactKey: Guid(50640cae432a65949851467c6b248e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround23.asset using Guid(50640cae432a65949851467c6b248e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca3a4e493fd2ff87d226d876b8103fd1') in 0.005943 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000011 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround20.asset
-  artifactKey: Guid(b6f37964f2863bb47ae5c26f46db48cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround20.asset using Guid(b6f37964f2863bb47ae5c26f46db48cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f94dd01cfee1697a0118a084328c06b0') in 0.006131 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
+Number of asset objects unloaded after import = 7
 ========================================================================
 Received Import Request.
   Time since last request: 0.000017 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileBackGround9.asset
-  artifactKey: Guid(bf0b7365c73984743ab3b83ad619829e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileBackGround9.asset using Guid(bf0b7365c73984743ab3b83ad619829e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d1e60e4f1f7a69e72c309c2f6d83bd3') in 0.007012 seconds
+  path: Assets/Hero Knight - Pixel Art/Sprites/HeroKnight_DeathNoBlood.png
+  artifactKey: Guid(432e48af0c833ad4587d222b812b844f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero Knight - Pixel Art/Sprites/HeroKnight_DeathNoBlood.png using Guid(432e48af0c833ad4587d222b812b844f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '205eb8d8f25b69c524ba824a40b747a5') in 0.031097 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant17.asset
-  artifactKey: Guid(dead7caa79171fd4da9102a2d3b88ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant17.asset using Guid(dead7caa79171fd4da9102a2d3b88ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f185fcef67e161e05eefd53dec22e00b') in 0.006630 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround4.asset
-  artifactKey: Guid(5c6fb09ef79aeeb47bfe32d15bc1f52a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround4.asset using Guid(5c6fb09ef79aeeb47bfe32d15bc1f52a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b85f96da0425a5f91c4108a469d61f3') in 0.006424 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileFence6.asset
-  artifactKey: Guid(0db61ca3cdc7fb344b35a9f4956c0bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileFence6.asset using Guid(0db61ca3cdc7fb344b35a9f4956c0bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20d38adf70c0d7bfbc02c1eb1a4bbb39') in 0.006412 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant2.asset
-  artifactKey: Guid(5d78d4d83f5fa8342882bbfab1f36d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant2.asset using Guid(5d78d4d83f5fa8342882bbfab1f36d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c51a5458eae360dbf39bb7132c051d1') in 0.005892 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant10.asset
-  artifactKey: Guid(6cb68ec73134b5c4e9d3506a60218931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant10.asset using Guid(6cb68ec73134b5c4e9d3506a60218931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3aeb792693d0ddf7956ef3335ee96e7') in 0.005893 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000013 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant14.asset
-  artifactKey: Guid(d0cadd0e02d8ce64f9c1fd427c4d22ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant14.asset using Guid(d0cadd0e02d8ce64f9c1fd427c4d22ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b297703e2e3702d1504d1ccff4c36a3') in 0.005248 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileBackGround4.asset
-  artifactKey: Guid(106ba10e377b3774ead95fd3e8cc1f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileBackGround4.asset using Guid(106ba10e377b3774ead95fd3e8cc1f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6312c232da8cb6a80a242f2329973684') in 0.006273 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000012 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround12.asset
-  artifactKey: Guid(24ecd063bf39372418d96902ad25ebaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround12.asset using Guid(24ecd063bf39372418d96902ad25ebaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '220e018f8c9670df08da7f6ed8d91327') in 0.004882 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000013 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileFence5.asset
-  artifactKey: Guid(930e1631852933741874f673e047798c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileFence5.asset using Guid(930e1631852933741874f673e047798c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '435405f11269bbbe058b0bb24694ad58') in 0.005684 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000013 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant19.asset
-  artifactKey: Guid(f4d109518e2c1e8499e3c9d77a3cc312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant19.asset using Guid(f4d109518e2c1e8499e3c9d77a3cc312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91dfdb7f6891d1109cf83662e0e12b7c') in 0.005755 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000012 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround10.asset
-  artifactKey: Guid(4c329af66fb645a458371db3a4f26a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround10.asset using Guid(4c329af66fb645a458371db3a4f26a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4741579dc24a0cd87af2b835d598be8') in 0.004774 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000011 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileBackGround13.asset
-  artifactKey: Guid(4d41f0ed146e8854bad65bf4398f9bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileBackGround13.asset using Guid(4d41f0ed146e8854bad65bf4398f9bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8809c2d05fdf3a8c7d26a1caa144f193') in 0.006564 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
+Number of asset objects unloaded after import = 12
 ========================================================================
 Received Import Request.
   Time since last request: 0.000017 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround22.asset
-  artifactKey: Guid(6fdb451d5be3c224e845031c34bccfe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileGround22.asset using Guid(6fdb451d5be3c224e845031c34bccfe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a19cb44c2d381af83d1270499f828edd') in 0.007163 seconds
+  path: Assets/Hero Knight - Pixel Art/Sprites/EnvironmentTiles.png
+  artifactKey: Guid(f094595c900579d4c85a02612d8fa36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero Knight - Pixel Art/Sprites/EnvironmentTiles.png using Guid(f094595c900579d4c85a02612d8fa36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aa65de34de48c5c33757887389b3e35') in 0.018857 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
+Number of asset objects unloaded after import = 6
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant11.asset
-  artifactKey: Guid(594664fa4d94db64e92de23641929d76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TilePlant11.asset using Guid(594664fa4d94db64e92de23641929d76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04eadc68a8bc9455a77c49b340a8ab3c') in 0.006541 seconds
+  Time since last request: 0.000029 seconds.
+  path: Assets/Hero Knight - Pixel Art/Sprites/HeroKnight_BlockNoEffect.png
+  artifactKey: Guid(d94b5c1ffa7794547b59105c8f561da3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero Knight - Pixel Art/Sprites/HeroKnight_BlockNoEffect.png using Guid(d94b5c1ffa7794547b59105c8f561da3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38ffbe26d99b2cb00cba5108cee74589') in 0.020740 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileSpikes.asset
-  artifactKey: Guid(a27742338fb36c74bb90ebd8c2a9075a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D Pixel Art Platformer Biome - Plains/Tilemap/TileSpikes.asset using Guid(a27742338fb36c74bb90ebd8c2a9075a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcdacd5a56b0d92b40154dc1aba5e3e6') in 0.005762 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
+Number of asset objects unloaded after import = 7
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: La operación de E/S se anuló por una salida de subproceso o por una solicitud de aplicación.
 AssetImportWorker is now disconnected from the server

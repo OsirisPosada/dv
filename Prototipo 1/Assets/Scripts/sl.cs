@@ -7,6 +7,7 @@ public class sl : MonoBehaviour
     float FuerzaM = 0.1f;
     int FuerzaSalto = 6;
     public int saltosRestantes;
+    public Animator animator;
 
 
     public bool ensuelo = true;
@@ -21,6 +22,7 @@ public class sl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
         if (Input.GetKeyDown(KeyCode.UpArrow))
         {
             if (saltosRestantes < 2 || ensuelo )
@@ -38,21 +40,25 @@ public class sl : MonoBehaviour
     {
 
 
-        if (Input.GetKey(KeyCode.DownArrow))
-        {
-            
-        }
 
         if (Input.GetKey(KeyCode.LeftArrow))
         {
             transform.position = transform.position + new Vector3(-FuerzaM, 0, 0);
+            transform.localScale = new Vector3 (-1, 1, 1);
+            animator.SetBool("Run", true); 
         }
+        
 
         if (Input.GetKey(KeyCode.RightArrow))
         {
             transform.position = transform.position + new Vector3(FuerzaM, 0, 0);
+            transform.localScale = new Vector3 (1, 1, 1);
+            animator.SetBool("Run", true); 
         }
-
+        if (!Input.GetKey(KeyCode.LeftArrow) && !Input.GetKey(KeyCode.RightArrow))
+        {
+            animator.SetBool("Run", false);
+        }
     }
 
     void OnCollisionEnter2D(Collision2D collision)
